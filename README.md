@@ -1,4 +1,4 @@
-[![Badge](https://cp-logo.vercel.app/atcoder/yudai25n)]
+![Badge](https://cp-logo.vercel.app/atcoder/yudai25n)
 
 <!--
 **neko3141592/neko3141592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
