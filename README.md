@@ -2,6 +2,8 @@
 ![Badge](https://cp-logo.vercel.app/atcoder/yudai25n)
 ![Static Badge](https://img.shields.io/badge/X-%40gcc_yudai25n-blue?link=https%3A%2F%2Ftwitter.com%2Fgcc_yudai25n)
 
+Reactを用いたWeb開発をしています
+
 <!--
 **neko3141592/neko3141592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
