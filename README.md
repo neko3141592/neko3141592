@@ -7,7 +7,7 @@
 }
 ```
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,nodejs,react,express,firebase,mongo" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,go,nodejs,react,express,firebase,mongo" /> <br /><br />
 
 
 ![neko3141592's GitHub stats](https://github-readme-stats.vercel.app/api?username=neko3141592&show_icons=true&bg_color=66DDCC&title_color=e12885ff&text_color=e12885ff)
